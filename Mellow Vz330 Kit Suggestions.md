@@ -1,4 +1,4 @@
-# Mellow Fly Kit Sugges0ons VzBot 330 Kit (July 2023 Build)
+# Mellow Fly Kit Suggestions VzBot 330 Kit (July 2023 Build)
 
 ## Installing Corner Brackets
 
@@ -7,31 +7,43 @@ M4 screws are intended here, but heads are too small.
 Proposed solution:
 
 * Include M4 Washers
-* Or, provide 12 addi0onal m5x10 BHCS screws with Tnuts
+* Or, provide 12 additional m5x10 BHCS screws with Tnuts
 
-## Z Assembly- M3x45’s were needed but not included.
+## Z Assembly
+
+3x45’s were needed but not included.
 
 Proposed solution:
 
 * Provide a quantity of 4 M3x45’s SCHS
 
-## Heat Inserts will be needed throughout the build (including toolhead, and other loca0ons)
+## Heat Inserts 
+
+Heat set inserts will be needed throughout the build (including toolhead, and other locations)
 
 Proposed solution:
 
-* Include a bag of small M3 heat inserts (3x4mm)
+* Include a bag of small M3x4mm heat set inserts
 
-## Toolhead requires 2 M3x30 screws that go inside spacers that were not included.
+## Toolhead
+
+Toolhead requires 2 M3x30mm screws that go inside spacers, but were not included.
 
 Proposed solution:
 
 * Include 2 M3x30 screws
 
-## AC Inlet is not of sufficient quality.
+## AC Inlet
 
-Proposed solution:
+~~AC Inlet is not of sufficient quality.~~
 
-* Consider providing a "US" version of the AC inlet, with proper IEC wiring colors and a 10A fuse option, rather than the included 5A which is probably fine for Europe but not US (since we have half the voltage of EU, so need double the current).
+~~Proposed solution:~~
+
+* ~~Consider providing a "US" version of the AC inlet, with proper IEC wiring colors and a 10A fuse option, rather than the included 5A which is probably fine for Europe but not US (since we have half the voltage of EU, so need double the current).~~
+
+> [!NOTE]  
+> This issue has ostensibly already fixed in subsequent kits. The was addressed by Pbsuper (VzBot team)
+> ![Pbsuper discord message](https://github.com/HumbleDeer/techyg-VzBot/assets/16231288/1a6ef2e4-59f1-4cc8-bbf4-9559239dbdf7)
 
 ## Back Panel
 
@@ -67,8 +79,8 @@ Proposed solution:
 Proposed solution:
 
 * Include heat shrink that can accommodate 20-24 awg wiring, used for endstops
-* Include zip 0es
-* Include 6mm and 12mm braided sleeve for keeping back panel wiring 0dy, and for toolhead wire loom / umbilical
+* Include zip ties
+* Include 6mm and 12mm braided sleeve for keeping back panel wiring tidy, and for toolhead wire loom / umbilical
 
 ## CPAP
 
